@@ -1,8 +1,8 @@
-package fundamentos;
+package fundamentos.controle;
 
 import java.util.Scanner;
 
-public class IfElse {
+public class IfElseTeste {
 	public static void main(String[] args) {
 		
 		Scanner entrada = new Scanner (System.in);
